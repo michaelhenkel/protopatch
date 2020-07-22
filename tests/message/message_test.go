@@ -3,7 +3,7 @@ package message
 import (
 	"testing"
 
-	"github.com/alta/protopatch/tests"
+	"github.com/michaelhenkel/protopatch/tests"
 )
 
 func TestBasicMessage(t *testing.T) {

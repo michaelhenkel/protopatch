@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/alta/protopatch/tests"
+	"github.com/michaelhenkel/protopatch/tests"
 )
 
 func TestBasicEnum(t *testing.T) {
